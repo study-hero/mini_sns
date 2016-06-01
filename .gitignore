@@ -1,11 +1,11 @@
 *.iml
 .gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+local.properties
+.idea/workspace.xml
+.idea/libraries
 .DS_Store
-/build
-/captures
+build
+captures
 
 # Built application files
 *.apk
@@ -37,3 +37,10 @@ proguard/
 # Android Studio Navigation editor temp files
 .navigation/
 
+# ios specific ignores
+.DS_Store
+*.sublime*
+*.xcworkspace
+xcuserdata
+xcshareddata
+*.framework

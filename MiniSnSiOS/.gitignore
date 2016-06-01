@@ -1,7 +1,0 @@
-# ios specific ignores
-.DS_Store
-*.sublime*
-*.xcworkspace
-xcuserdata
-xcshareddata
-*.framework
