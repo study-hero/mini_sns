@@ -1,11 +1,11 @@
 *.iml
-.gradle
-local.properties
-.idea/workspace.xml
-.idea/libraries
+/MiniSnSAndroid/.gradle
+/MiniSnSAndroid/local.properties
+/MiniSnSAndroid/.idea/workspace.xml
+/MiniSnSAndroid/.idea/libraries
 .DS_Store
-build
-captures
+/MiniSnSAndroid/build
+/MiniSnSAndroid/captures
 
 # Built application files
 *.apk
@@ -43,4 +43,5 @@ proguard/
 *.xcworkspace
 xcuserdata
 xcshareddata
+xcuserstate
 *.framework
